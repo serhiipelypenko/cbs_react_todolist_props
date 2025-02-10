@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cbs_react_todolist_props/static/css/main.b7ff8852.css",
+    "main.js": "/cbs_react_todolist_props/static/js/main.61b958a8.js",
+    "index.html": "/cbs_react_todolist_props/index.html",
+    "main.b7ff8852.css.map": "/cbs_react_todolist_props/static/css/main.b7ff8852.css.map",
+    "main.61b958a8.js.map": "/cbs_react_todolist_props/static/js/main.61b958a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ff8852.css",
+    "static/js/main.61b958a8.js"
+  ]
+}
